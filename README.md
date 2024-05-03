@@ -35,3 +35,7 @@ Los ejercicios que se plantearon fueron 4.
    
     Por último creo un archivo csv que lee del índice employee, el cual le doy permisos de escrito y de lectura. Creo un bucle for para obtener el nombre, la ciudad, el sueldo y las tech skills de los empleados. 
     ![alt text](CSV.png)
+
+Gracias por darme esta oportunidad de participar en vuestra empresa.
+
+Kevin Xavier 👨‍🎓💻
